@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
