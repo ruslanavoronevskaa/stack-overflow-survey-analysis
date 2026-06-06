@@ -9,13 +9,13 @@ Exploratory Data Analysis of Stack Overflow Developer Survey data using Python a
 - Matplotlib
 
 ## Tasks
-- Data cleaning
-- Missing values handling
-- Descriptive statistics
-- Data aggregation
-- Visualization
+- Cleaned data and handled missing values.
+- Calculated descriptive statistics and percentage distributions.
+- Grouped and filtered data to identify key patterns.
+- Aggregated data across different respondent segments.
+- Visualized results using tables and simple charts.
 
 ## Results
-- Identified trends in developer demographics
-- Analyzed technology usage patterns
-- Compared respondent groups
+Identified key trends in developer demographics, tools, and technology usage. 
+Revealed differences across experience levels and respondent segments, 
+providing structured insights into dataset patterns.
